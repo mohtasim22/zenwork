@@ -1,0 +1,217 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  scroll-behavior: smooth;
+}
+
+body{
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+  color: #3c3768;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Poppins', sans-serif;
+
+}
+
+a, a:hover{
+  text-decoration: none;
+}
+
+/***************************************
+            Main CSS starts
+****************************************/
+
+/* Header-Section */
+
+.header-section{
+    padding: 0px 0px 100px!important;
+}
+.header-section .banner-bg{
+  position: absolute;
+  max-width: 100%;
+  right: 0;
+}
+.header-section .top-nav{
+    padding: 30px 0px;
+}
+.header-section .top-nav a{}
+.header-section .top-nav a .logo{}
+.header-section .top-nav a img{}
+.header-section .top-nav nav{}
+.header-section .top-nav ul{}
+.header-section .top-nav ul li{}
+
+.banner-section{}
+.banner-section .banner-inner{
+    margin: 80px 0px;
+}
+.banner-section .banner-inner h2{
+    font-size: 50px;
+    font-weight: 700;
+    max-width: 90%;
+}
+.banner-section .banner-inner p{
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 36px;
+    padding: 40px 0px;
+}
+.banner-section .banner-inner .signup-form{}
+.banner-section .banner-inner .signup-form h5{
+    font-size: 19px;
+}
+.banner-section .banner-inner .signup-form .form-inline{
+    margin: 40px 0px;
+}
+.form-control{
+    border: none;
+    box-shadow: 0px 15px 30px 10px #fee2e0;
+    padding: 25px;
+    width: 65%;
+}
+.btn-x{
+    background: #c36571;
+    background: -webkit-linear-gradient(45deg,  #c36571 0%,#fa7875 100%);
+    background: linear-gradient(45deg,  #c36571 0%,#fa7875 100%);
+    border: none;
+    color: white;
+    padding: 13px 26px;
+    font-weight: 600;
+    box-shadow: 0px 15px 30px 10px #fee2e0;
+}
+.banner-section button .btn-primary{}
+
+
+/* Middle-Section */
+.middle-section{}
+.one{}
+.two{}
+.three{}
+.services{
+  position: relative;
+  padding: 60px 0 !important;
+}
+.services img{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  /* width: 55%; */
+  max-width: 100%;
+  max-height: 100%;
+}
+.two img{
+  position: absolute;
+  right: 0;
+
+}
+.services .text-inner{
+
+/* max-width: 85%; */
+
+background-color: #ffffff99;
+
+padding: 60px;
+
+border-radius: 5px;
+
+box-shadow: 0px 25px 50px 0px #fff2f1;
+}
+.services .text-inner h4{
+
+font-size: 32px;
+
+font-weight: 600;
+}
+.services .text-inner p{
+
+font-size: 16px;
+
+line-height: 32px;
+
+padding: 20px 0px;
+}
+.services .text-inner a{
+
+color: #fa7875;
+
+font-size: 17px;
+
+font-weight: 700;
+}
+.services .text-inner a i{
+
+}
+.services .text-inner a .fa{
+
+}
+
+/* contact-section */
+.contact{
+    position: relative;
+}
+.contact-section{
+}
+.contact-section .btn-x{
+  box-shadow: 0px 10px 25px 5px #05050547;
+}
+.contact-section .form-control{
+  border: none;
+  box-shadow: 0px 10px 25px 5px #05050547;
+  padding: 25px;
+  width: 65%;
+}
+.contact-section img{
+    position: absolute;
+}
+.contact-section .content-inner{padding: 66px 0px;}
+.contact-section .content-inner h4{
+    font-size: 40px;
+    color: white;
+    font-weight: 700;
+    max-width: 93%;
+}
+.contact-section .content-inner p{
+    color: white;
+    font-size: 16px;
+    font-weight: 300;
+    margin: 0;
+    max-width: 85%;
+}
+
+/* footer */
+
+footer{
+    padding: 50px 0px 30px;
+}
+footer .top-footer{}
+footer .top-footer .content-inner{}
+footer .top-footer .content-inner p{
+    padding: 35px 0px;
+    color: #455a64;
+}
+footer .top-footer .content-inner img{}
+footer .navs{} 
+footer .navs h6{
+    padding: 0px 0px 20px;
+    font-weight: 700;
+    font-size: 20px;
+    color: #fa7875;
+}
+footer .navs a{
+    padding: 0px 0px 18px;
+    color: #455a64;
+}
+footer .navs ul{} 
+footer .navs li{}
+.bottom-footer{
+
+}
+.bottom-footer .inner{
+
+}
+.bottom-footer .inner h6{
+  font-size: 14px;
+}

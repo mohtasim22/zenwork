@@ -1,0 +1,102 @@
+@media (min-width: 320px) and (max-width: 991px) {
+    
+}
+    
+    
+}
+@media (min-width: 320px) and (max-width: 767px) { 
+    
+}
+
+@media (min-width: 320px) and (max-width: 991px) { 
+    
+    
+   
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767px) { 
+    
+    
+    
+}   
+    
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 320px) and (max-width: 575px) {
+    .header-section .banner-bg {
+        position: absolute;
+        max-width: 170%;
+        right: 0;
+    }
+    .header-section .top-nav a img {
+        width: 100%;
+    }
+    .searchbar {
+        display: none;
+    }
+    .banner-section .banner-inner .signup-form h5 {
+        font-size: 18px;
+    }
+    .header-section {
+        padding: 0px 0px 0px!important;
+    }
+    .services .text-inner {
+        background-color: #ffffff73;
+        padding: 10px;
+    }
+    .services {
+        padding: 20px 0 !important;
+    }
+    .contact-section img {
+        display: none;
+    }
+    .contact {
+        position: relative;
+        background: url(../images/contact_bg.png) center center no-repeat;
+    }
+    .contact-section .content-inner h4 {
+        font-size: 38px;
+        color: white;
+        font-weight: 700;
+        max-width: 100%;
+    }
+    .contact {
+        position: relative;
+        background: url(../images/contact_bg.png) center center no-repeat;
+        background-size: cover;
+        padding: 50px 20px;
+    }
+    .contact-section .form-control {
+        width: 63%;
+        margin-right: 10px;
+    }
+    .contact-section .content-inner {
+        padding: 20px 0px;
+    }
+    .contact-section .content-inner p {
+        padding: 20px 0px;
+    }
+    footer {
+        padding: 0px 0px 30px;
+    }
+    .social-links {
+        padding: 25px 0px;
+    }
+    footer .navs h6 {
+        padding: 0px 0px 10px;
+    }
+    .bottom-footer .inner h6 {
+        font-size: 14px;
+        text-align: center;
+    }
+}
+
+/* Medium devices (tablets, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+
+@media (min-width: 1200px) {
+    
+}
+
+
